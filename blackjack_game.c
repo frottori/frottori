@@ -34,7 +34,7 @@ int main (void)
 
     if (player1==1 && player2==10 | player1==1 && player2==10 ) 
     {
-        printf("Players gets 21! Player Wins!\n");
+        printf("Player gets 21! Player Wins!\n");
         return 0;
     }
     if(split)
@@ -67,7 +67,7 @@ int player_draw(int hand,int sum_player)
     int draw,card;
     do
     {
-        printf("Hand_%d do you want to draw another card (1:for yes)?",hand);
+        printf("Hand_%d: Do you want to draw another card (1:for yes)?",hand);
         scanf("%d",&card);
         if (card)
         {
@@ -77,19 +77,19 @@ int player_draw(int hand,int sum_player)
                 case 11: printf("Player draw 'J'\n"); break;
                 case 12: printf("Player draw 'Q'\n"); break;
                 case 13: printf("Player draw 'K'\n"); break;
-                default: printf("Player draw %d\n",draw);
+                default: printf("Player draw %d\n",draw); break;
             }
             if (draw>10)
                 draw=10;
             sum_player+= draw;
+            printf("Player has total %d\n",sum_player);
             if (sum_player==21)
                 return sum_player;
-            printf("Player has total %d\n",sum_player);
         }
         if (sum_player>21)
         {
             printf("Player Lost!\n"); 
-            exit(1);
+            exit(0);
         }   
     }
     while(card); 
@@ -107,7 +107,7 @@ int dealer_draw(int sum_dealer)
             case 11: printf("Dealer draw 'J'\n"); break;
             case 12: printf("Dealer draw 'Q'\n"); break;
             case 13: printf("Dealer draw 'K'\n"); break;
-            default: printf("Dealer draw %d\n",draw); 
+            default: printf("Dealer draw %d\n",draw); break;
         }
         if (draw>10)
             draw=10;
@@ -116,7 +116,7 @@ int dealer_draw(int sum_dealer)
         if(sum_dealer>21)
         {
             printf("Player wins!\n");
-            exit(1);
+            exit(0);
         }
     }
     while(sum_dealer<=16);
@@ -152,9 +152,9 @@ void print_result(int sum_player,int sum_dealer,int hand)
 {
 
     if (sum_player>sum_dealer)            
-        printf("Hand_%d: Player Wins!",hand);
+        printf("Hand_%d: Player Wins!\n",hand);
     else if (sum_player<sum_dealer)    
-        printf("Hand_%d: Dealer Wins!",hand); 
+        printf("Hand_%d: Dealer Wins!\n",hand); 
     else 
-        printf("Hand_%d Nobody Wins!",hand);
+        printf("Hand_%d Nobody Wins!\n",hand);
 }
