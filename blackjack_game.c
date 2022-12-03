@@ -10,37 +10,39 @@ void print_result(int,int,int);
 int main (void)
 {
     srand(time(NULL));
-    int player1;        //First card of Player
-    int player2;        //Second card of Player
-    int sum_player1=0;  //Sum of First hand of Player
-    int sum_player2=0;  //Sum of Second hand of Player
-    int dealer;         //First card of Dealer
-    int sum_dealer=0;   //Sum of Dealer
-    int split;          //Option for Player to split Hand
+    int player1;            //First card of Player
+    int player2;            //Second card of Player
+    int sum_player1=0;      //Sum of First hand of Player
+    int sum_player2=0;      //Sum of Second hand of Player
+    int dealer;             //First card of Dealer
+    int sum_dealer=0;       //Sum of Dealer
+    int split=0;            //Option for Player to split Hand
 
     dealer= (rand()%(13))+1;
     player1= (rand()%(13))+1;
     player2= (rand()%(13))+1;
-      
     print_cards(player1,player2,dealer);
 
-    if (player1==1 && player2>=10 | player1==1 && player2>=10 ) //
+    if (player1==player2)   //The option of split is enabled
+        split=1; 
+    if (player1>10)
+        player1=10;
+    if (player2>10)
+        player2=10;
+    if (dealer>10)
+        dealer=10;
+
+    if (player1==1 && player2==10 | player1==1 && player2==10 ) 
     {
         printf("Players gets 21! Player Wins!\n");
         return 0;
     }
-    if(player1==player2)
+    if(split)
     {
         printf("Split the cards (1:for yes)?");
-        scanf("%d",&split);
+        scanf("%d",&split);   
         if (split)
         {
-            if (player1>10)
-                player1=10;
-            if (player2>10)
-                player2=10;
-            if (dealer>10)
-                dealer=10;
             sum_player1+=player1;
             sum_player2+=player2;
             sum_player1=player_draw(1,sum_player1);
@@ -52,12 +54,6 @@ int main (void)
             return 0;
         }  
     }
-    if (player1>10)
-        player1=10;
-    if (player2>10)
-        player2=10;
-    if (dealer>10)
-        dealer=10;
     sum_player1+=player1+player2;
     sum_player1=player_draw(1,sum_player1);
     sum_dealer+=dealer;
@@ -81,7 +77,7 @@ int player_draw(int hand,int sum_player)
                 case 11: printf("Player draw 'J'\n"); break;
                 case 12: printf("Player draw 'Q'\n"); break;
                 case 13: printf("Player draw 'K'\n"); break;
-                default: printf("Player draw %d\n",draw); break;
+                default: printf("Player draw %d\n",draw);
             }
             if (draw>10)
                 draw=10;
@@ -111,7 +107,7 @@ int dealer_draw(int sum_dealer)
             case 11: printf("Dealer draw 'J'\n"); break;
             case 12: printf("Dealer draw 'Q'\n"); break;
             case 13: printf("Dealer draw 'K'\n"); break;
-            default: printf("Dealer draw %d\n",draw); break;
+            default: printf("Dealer draw %d\n",draw); 
         }
         if (draw>10)
             draw=10;
