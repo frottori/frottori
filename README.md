@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frottori
-- 👀 I’m interested in c,c++,assembly
-- 🌱 I’m currently learning everything
+- 👀 I’m interested in c, c++, assembly
+- 🌱 I’m currently learning ever thing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
