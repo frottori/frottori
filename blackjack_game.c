@@ -48,7 +48,7 @@ int main (void)
             sum_dealer+=dealer;
             sum_dealer= func2 (sum_dealer);
             print_result(sum_player1,sum_dealer,1);
-            print_resutl(sum_player2,sum_dealer,2);
+            print_result(sum_player2,sum_dealer,2);
             return 0;
         }  
     }
