@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frottori
-- 👀 I’m interested in C, C++
+- 👀 I’m interested in C, C++,Java
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on everything
 
