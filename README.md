@@ -18,7 +18,7 @@
 - :mortar_board: I'm currently an Undergraduate student at University of West Attica
   - Informatics and Computer Engineering
 - :seedling: Learning how to code and solve general problems
-- :zap: In my free time, I build new projects, edit and watch youtube ;)
+- :zzz: In my free time, I build new projects, edit and watch youtube ;)
 - :mailbox_with_mail: Where to reach me:
   - frossovarsou@gmail.com
 ---
