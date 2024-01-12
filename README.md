@@ -42,4 +42,4 @@
 ### :fire: My Stats :
  
 <img src="https://github-readme-streak-stats.herokuapp.com?user=frottori&theme=discord-old-blurple&hide_border=true" width="500" alt="GitHub Streak">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frottori&layout=compact&theme=dracula" width="400" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frottori&layout=compact&theme=dracula" width="300" alt="Top Langs">
