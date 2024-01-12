@@ -42,7 +42,7 @@
 ### :fire: My Stats :
 <div id="stats">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frottori&theme=discord-old-blurple&hide_border=true)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frottori&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=frottori&theme=discord-old-blurple&hide_border=true" width="400" alt="GitHub Streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frottori&layout=compact&theme=dracula" width="400" alt="Top Langs">
+
 </div>
