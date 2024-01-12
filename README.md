@@ -43,4 +43,4 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=frottori&theme=dark&background=22272e)](https://git.io/streak-stats)
+[![GitHub Streak]("https://github-readme-streak-stats.herokuapp.com?user=frottori&theme=discord-old-blurple&hide_border=true")
