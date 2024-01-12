@@ -10,7 +10,7 @@
   </a>
 </div>
 <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=frottori&style=flat-square&color=purple" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=frottori&style=flat-square&color=yellow" alt=""/>
 </div>
 
 --- 
