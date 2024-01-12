@@ -14,7 +14,7 @@
 </div>
 
 --- 
-### :woman_technologist: About Me :
+### :last_quarter_moon: About Me :
 - :mortar_board: I'm currently an Undergraduate student at University of West Attica
   - Informatics and Computer Engineering
 - :seedling: Learning how to code and solve general problems
