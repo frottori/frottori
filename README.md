@@ -20,7 +20,7 @@
 - :seedling: Learning how to code and solve general problems
 - :zzz: In my free time, I build new projects, edit and watch youtube ;)
 - :mailbox_with_mail: Where to reach me:
-  - frossovarsou@gmail.com
+  - **frossovarsou@gmail.com**
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
