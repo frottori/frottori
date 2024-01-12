@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/effrosyni-varsou-9a5808101/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
+<div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=frottori&style=flat-square&color=blue" alt=""/>
 </div>
-
