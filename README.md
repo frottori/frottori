@@ -14,7 +14,7 @@
 </div>
 
 --- 
-### :hammer_and_wrench: Languages and Tools :
+### :woman_technologist: About Me :
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
