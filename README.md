@@ -19,7 +19,7 @@
   - Informatics and Computer Engineering
 - :seedling: Learning how to code and solve general problems
 - :zap: In my free time, I build new projects, edit and watch youtube ;)
-- :mortar_board: Where to reach me:
+- :mailbox_with_mail: Where to reach me:
   - frossovarsou@gmail.com
 ---
 ### :hammer_and_wrench: Languages and Tools :
