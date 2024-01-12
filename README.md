@@ -20,7 +20,6 @@
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - :mailbox:How to reach me:
-  - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/effrosyni-varsou-9a5808101/)
   - frossovarsou@gmail.com
 ---
 ### :hammer_and_wrench: Languages and Tools :
