@@ -12,6 +12,7 @@
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=frottori&style=flat-square&color=blue" alt=""/>
 </div>
+
 --- 
 ### :hammer_and_wrench: Languages and Tools :
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
