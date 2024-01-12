@@ -15,10 +15,10 @@
 
 --- 
 ### :woman_technologist: About Me :
-- :telescope: I'm currently a student at University of West Attica
+- :telescope: I'm currently an Undergraduate student at University of West Attica
   - Informatics and Computer Engineering
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :seedling: Learning how to code and solve problems
+- :zap: In my free time, I build new projects, edit and watch youtube ;)
 - :mailbox:How to reach me:
   - frossovarsou@gmail.com
 ---
