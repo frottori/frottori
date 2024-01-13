@@ -45,5 +45,6 @@
   
 <img src="https://github-readme-streak-stats.herokuapp.com?user=frottori&theme=dracula&hide_border=true" width="470" alt="GitHub Streak">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frottori&layout=compact&theme=dracula&hide_border=true" width="337" alt="Top Langs">
+
 ![frottori's Stats](https://github-readme-stats.vercel.app/api?username=frottori&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 </div>
