@@ -47,7 +47,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frottori&layout=compact&theme=dracula&hide_border=true" width="337" alt="Top Langs">
 
-<img src="https://github-readme-stats.vercel.app/api?username=frottori&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="470" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=frottori&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="440" alt="Stats">
 
 <img src="https://github-contributor-stats.vercel.app/api?username=frottori&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" width="400" alt="Contributor Stats">
 
