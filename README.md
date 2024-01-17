@@ -49,7 +49,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=frottori&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="470" alt="Stats">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=frottori&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" width="337" alt="Contributor Stats">
+<img src="https://github-contributor-stats.vercel.app/api?username=frottori&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" width="440" alt="Contributor Stats">
 
 
 </div>
