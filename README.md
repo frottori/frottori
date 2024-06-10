@@ -17,7 +17,7 @@
 ### :last_quarter_moon: About Me :
 - :mortar_board: I'm currently an Undergraduate student at University of West Attica
   - Informatics and Computer Engineering
-- :seedling: Learning how to code and solve general problems
+- :seedling: Learning how to code and solve general problems (machine learning, game design etc.)
 - :zzz: In my free time, I build new projects, edit and watch youtube ;)
 - :mailbox_with_mail: Where to reach me:
   - **frossovarsou@gmail.com**
