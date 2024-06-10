@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="100"/>
-  <iframe src="https://giphy.com/embed/d3MLdIYIHup9Q2xG" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/laptop-rotoscope-macbook-d3MLdIYIHup9Q2xG">
+  <img src="https://giphy.com/embed/d3MLdIYIHup9Q2xG" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/effrosyni-varsou-9a5808101/">
