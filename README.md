@@ -44,8 +44,8 @@
 <div>
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=frottori&theme=dracula&hide_border=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frottori&layout=compact&theme=dracula&hide_border=true" width="327" alt="Top Langs">
-<img src="https://github-readme-stats.vercel.app/api?username=frottori&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="435" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frottori&layout=compact&theme=dracula&hide_border=true" width="337" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api?username=frottori&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="410" alt="Stats">
 <img src="https://github-contributor-stats.vercel.app/api?username=frottori&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" width="345" alt="Contributor Stats">
 
 </div>
