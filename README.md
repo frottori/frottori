@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/frottori/">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Bagde"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-frottori%235892-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bagde"/>
+  <img src="https://img.shields.io/badge/frottori%235892-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bagde"/>
 </div>
 
 --- 
