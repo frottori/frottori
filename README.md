@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmd4azRmNjlkYmo2dGE1NWpocWppc2p0cGswc2VodzYycDA4ZnFtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4XXo8A7CIW1lZGgdhm/giphy.gif" width="100"/>
 </div>
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=frottori&style=flat-square&color=yellow" alt=""/>
