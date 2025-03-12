@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmd4azRmNjlkYmo2dGE1NWpocWppc2p0cGswc2VodzYycDA4ZnFtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4XXo8A7CIW1lZGgdhm/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="100"/>
 </div>
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=frottori&style=flat-square&color=yellow" alt=""/>
@@ -45,6 +45,6 @@
 ### :chart_with_upwards_trend: My Stats :
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frottori&layout=compact&theme=dracula&hide_border=true&hide=jupyter%20notebook" width="347" alt="Top Langs">
-<img src="https://github-readme-stats.vercel.app/api?username=frottori&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="480" alt="Stats">
 <img src="https://github-contributor-stats.vercel.app/api?username=frottori&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" width="362" alt="Contributor Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=frottori&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="480" alt="Stats">
 </div>
