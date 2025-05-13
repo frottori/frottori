@@ -47,6 +47,6 @@
 ### :chart_with_upwards_trend: My Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frottori&layout=compact&theme=dracula&hide_border=true&hide=jupyter%20notebook" width="420" height="200" alt="Top Langs"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=frottori&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="420" height="200" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=frottori&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="420" height="250" alt="Stats"/>
 </p>
 
