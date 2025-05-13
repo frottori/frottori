@@ -15,7 +15,7 @@
 </div>
 
 --- 
-### :last_quarter_moon: About Me :
+### :last_quarter_moon: About Me:
 - :mortar_board: I'm currently an Undergraduate student at University of West Attica
   - Informatics and Computer Engineering
 - :seedling: Learning how to code and solve general problems (machine learning, game design etc.)
@@ -23,7 +23,7 @@
 - :mailbox_with_mail: Where to reach me:
   - **frossovarsou@gmail.com**
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
@@ -44,7 +44,7 @@
 </div>
 
 ---
-### :chart_with_upwards_trend: My Stats :
+### :chart_with_upwards_trend: My Stats:
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frottori&layout=compact&theme=dracula&hide_border=true&hide=jupyter%20notebook" width="420" alt="Top Langs">
 <img src="https://github-contributor-stats.vercel.app/api?username=frottori&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" width="420" alt="Contributor Stats">
