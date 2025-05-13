@@ -4,8 +4,9 @@
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=frottori&style=flat-square&color=yellow" alt=""/>
 </div>
-<div id="badges" align="center">
   [![LinkedIn Badge](https://img.shields.io/badge/effrosyni_varsou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/effrosyni_varsou/)
+<div id="badges" align="center">
+
   <a href="https://www.instagram.com/frottori/">
     <img src="https://img.shields.io/badge/frottori-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Bagde"/>
   </a>
