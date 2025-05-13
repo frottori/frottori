@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/frottori%235892-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bagde"/>
 </div>
 
---- 
 ### :last_quarter_moon: About Me:
 - :mortar_board: I'm currently an Undergraduate student at University of West Attica
   - Informatics and Computer Engineering
