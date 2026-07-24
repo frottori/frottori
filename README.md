@@ -39,10 +39,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
 </div>
-
----
-### :chart_with_upwards_trend: My Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frottori&layout=compact&theme=dracula&hide_border=true&hide=jupyter%20notebook,shaderlab" width="360" alt="Top Langs"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=frottori&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="470" alt="Stats"/>
-</p>
